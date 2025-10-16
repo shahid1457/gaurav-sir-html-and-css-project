@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body{
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 10%;
+}
+
+.back-text {
+     transform: translate(-50% , -50%);
+     /* font-weight: bold; */
+}
+
+ footer li:hover {
+    color: red;
+ }
+
+ footer i:hover {
+    color:red
+ }
